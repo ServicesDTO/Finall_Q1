@@ -1,3 +1,4 @@
+package T2;
 public class Toy {
     private int id;
     private String name;
